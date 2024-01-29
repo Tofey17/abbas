@@ -12,27 +12,27 @@
     "success_url": "https://t.me/DroneBots",
     "env": {
         "API_HASH": {
-            "description": "Your API HASH from my.telegram.org",
+            "description": "حط الايبي هاش تبعك",
             "value": ""
         },
         "API_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": "حط الايبي ايدي تبعك",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Bot token, get it from @BotFather.",
+            "description": "حط توكن بوتك طلعه من بوت @BotFather.",
             "value": ""
         },
         "SESSION": {
-            "description": "Pyrogram string session.",
+            "description": "حط جلسه البايثون.",
             "value": ""
         },
         "AUTH": {
-            "description": "User ID of Bot owner.",
+            "description": "حط يوزر البوت بدون @.",
             "value": ""
         },
         "FORCESUB": {
-            "description": "Username name of public channel without using '@'.",
+            "description": "حط يوزر قناتك او كروبك '@'.",
             "value": ""
         }
     },
